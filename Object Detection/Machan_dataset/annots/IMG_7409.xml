@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Orange peel</folder>
+	<filename>IMG_7409.JPG</filename>
+	<path>C:\AI\ADC Project Labellme 0824\windows_v1.8.1\0831_Darren_100\Orange peel\IMG_7409.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange peel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>228</ymin>
+			<xmax>105</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Orange peel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>3</ymin>
+			<xmax>272</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

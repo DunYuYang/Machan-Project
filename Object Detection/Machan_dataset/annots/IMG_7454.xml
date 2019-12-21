@@ -1,0 +1,26 @@
+<annotation>
+	<folder>惇昱_200 張 jpg &amp; XML</folder>
+	<filename>IMG_7454.JPG</filename>
+	<path>C:\Users\user\Desktop\ADC Project Labellme 0831\惇昱_200 張 jpg &amp; XML\IMG_7454.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Granular</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>227</ymin>
+			<xmax>226</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>
